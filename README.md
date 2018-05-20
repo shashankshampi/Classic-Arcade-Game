@@ -7,8 +7,6 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 ## Installation
 Clone this project to your machine
 
-`$ git clone https://github.com/garyherd/front-end-nanodegree-arcade-game.git`
-
 ## Running the game
 To start the game, open the index.html file in your browser. The objective is to get your character safely to the top of the screen. The game ends if your character collides with the moving bugs. There are four valid keys for moving the character:
 * Up arrow
@@ -16,7 +14,7 @@ To start the game, open the index.html file in your browser. The objective is to
 * Left arrow
 * Right arrow
 
-##To run the application:
+## To run the application:
 
 1. Download the GitHub zip file or clone the repository onto your local workstation
 2. Open a browser window and navigate to the index.html file in your application's directory.
