@@ -97,7 +97,7 @@ var checkCollision = function(anEnemy) {
     // check for player reaching top of canvas and winning the game
     // if player wins, add 1 to the score and level
     // pass score as an argument to the increaseDifficulty function
-    if (player.y + 63 <= 0) {        
+    if (player.y + 63 <= 50) {        
         player.x = 202.5;
         player.y = 383;
         alert('Congratulations, You Won!!');
